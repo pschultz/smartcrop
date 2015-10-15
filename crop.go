@@ -41,7 +41,7 @@ import (
 	"os"
 	"time"
 
-	"code.google.com/p/draw2d/draw2d"
+	"github.com/llgcode/draw2d"
 	"github.com/lazywei/go-opencv/opencv"
 	"github.com/nfnt/resize"
 )
